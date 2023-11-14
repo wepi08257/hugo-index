@@ -196,3 +196,16 @@ img {
   text-align: center;
   font-size: 2rem;
 }
+
+details > summary {
+  padding: 7px;
+  width: 212px;
+  background-color: #fbf1f1;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; 0.3) 0px 30px 60px -30px;
+  cursor: pointer;
+}
+
+li{
+  margin: 10px 0;
+}
